@@ -1,0 +1,5 @@
+2021-08-09;548.10;FOOD;Pečivo z pekárny
+2021-07-31;84.5;FOOD;Pečivo z pekárny
+2021-08-08;935.0;CONSUMABLES;Benzín (28 l)
+2021-08-07;80.0;OTHERS;Vstupné na koupaliště
+2021-07-03;48.0;CONSUMABLES;Opalovací krém
